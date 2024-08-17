@@ -34,43 +34,36 @@ profiles:
     url: https://u.wechat.com/MLuIE1Ns0pte-T58sgtC1VU?s=1
   - icon: brands/github
     url: https://github.com/calvinlin011010
-  # - icon: brands/linkedin
-  #   url: https://www.linkedin.com/
+   - icon: brands/google-scholar
+     url: https://scholar.google.com/citations?user=A57ACrYAAAAJ&hl=zh-CN&oi=sra
   # - icon: brands/instagram
   #   url: https://www.instagram.com/
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: 电子科技大学
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: 信息抽取、知识图谱
+    institution: 电子科技大学 - 计算机科学与工程学院（网络空间安全学院）
+    date_start: 2023-09-01
+    date_end: 2026-06-30
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      研究项目：
+      - 国家自然科学基金联合基金项目
+      - 173基础加强项目
+      - 国家重点研发计划等
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      url: 'https://openreview.net/profile?id=~Run_Lin3'
+  - area: 信息抽取
+    institution: 中国矿业大学（北京） - 机电与信息工程学院
+    date_start: 2019-09-01
+    date_end: 2023-06-30
     summary: |
-      GPA: 3.8/4.0
+      GPA: 3.7/4.0
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      所获荣誉：
+      - 国家励志奖学金、优秀学生一等奖学金
+      - 校优秀毕业生
+      - 校级优秀学生干部
+      - 校内辩论赛冠军等
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
