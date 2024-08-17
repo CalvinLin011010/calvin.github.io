@@ -34,10 +34,10 @@ profiles:
     url: https://u.wechat.com/MLuIE1Ns0pte-T58sgtC1VU?s=1
   - icon: brands/github
     url: https://github.com/calvinlin011010
-   - icon: brands/google-scholar
-     url: https://scholar.google.com/citations?user=A57ACrYAAAAJ&hl=zh-CN&oi=sra
-  # - icon: brands/instagram
-  #   url: https://www.instagram.com/
+  - icon: brands/google-scholar
+    url: https://scholar.google.com/citations?user=A57ACrYAAAAJ&hl=zh-CN&oi=sra
+  - icon: brands/arxiv
+    url: https://openreview.net/profile?id=~Run_Lin3
 
 education:
   - area: 信息抽取、知识图谱
