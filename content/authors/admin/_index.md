@@ -32,6 +32,7 @@ profiles:
     label: E-mail Me
   - icon: brands/weixin
     url: https://u.wechat.com/MLuIE1Ns0pte-T58sgtC1VU?s=1
+    label: TEL:18801071069
   - icon: brands/github
     url: https://github.com/calvinlin011010
   - icon: brands/google-scholar
@@ -40,7 +41,7 @@ profiles:
     url: https://openreview.net/profile?id=~Run_Lin3
 
 education:
-  - area: 信息抽取、知识图谱
+  - area: 软件工程 - 硕士
     institution: 电子科技大学 - 计算机科学与工程学院（网络空间安全学院）
     date_start: 2023-09-01
     date_end: 2026-06-30
@@ -49,10 +50,10 @@ education:
       - 国家自然科学基金联合基金项目
       - 173基础加强项目
       - 国家重点研发计划等
-    button:
-      text: 'Read Thesis'
-      url: 'https://openreview.net/profile?id=~Run_Lin3'
-  - area: 信息抽取
+    # button:
+    #   text: 'Read Thesis'
+      # url: 'https://openreview.net/profile?id=~Run_Lin3'
+  - area: 计算机科学与技术 - 学士
     institution: 中国矿业大学（北京） - 机电与信息工程学院
     date_start: 2019-09-01
     date_end: 2023-06-30
@@ -122,13 +123,13 @@ skills:
         percent: 80
         icon: camera
 
-languages:
-  - name: English
-    percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+# languages:
+#   - name: English
+#     percent: 100
+#   - name: Chinese
+#     percent: 75
+#   - name: Portuguese
+#     percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -162,4 +163,4 @@ awards:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-I am currently Director of Cloud Infrastructure at GenCoin where I am leading teams on edge computing, deep sea data center architecture, and hivemind optimization.
+您好，我的研究方向是自然语言处理的信息抽取领域
