@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: 林润
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Run Lin
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Run
+last_name: Lin
 
 # Status emoji
 status:
@@ -21,7 +21,7 @@ role: Director of Cloud Infrastructure
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: GenCoin
+  - name: UESTC
     url: https://www.example.com/
 
 # Social network links
@@ -41,7 +41,7 @@ profiles:
 
 education:
   - area: PhD Artificial Intelligence
-    institution: Stanford University
+    institution: 电子科技大学
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
