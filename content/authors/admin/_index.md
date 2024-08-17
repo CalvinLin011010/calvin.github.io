@@ -17,27 +17,27 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Director of Cloud Infrastructure
+role: 赛博世界探索者
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: UESTC
-    url: https://www.example.com/
+    url: https://www.uestc.edu.cn/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:calvinlin011010@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+  - icon: brands/weixin
+    url: https://u.wechat.com/MLuIE1Ns0pte-T58sgtC1VU?s=1
   - icon: brands/github
-    url: https://github.com/gcushen
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://github.com/calvinlin011010
+  # - icon: brands/linkedin
+  #   url: https://www.linkedin.com/
+  # - icon: brands/instagram
+  #   url: https://www.instagram.com/
 
 education:
   - area: PhD Artificial Intelligence
